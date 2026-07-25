@@ -6,6 +6,7 @@ LeetCode75_Solution
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
@@ -39,6 +40,7 @@ LeetCode75_Solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,6 +71,7 @@ LeetCode75_Solution
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
