@@ -27,8 +27,7 @@ class Solution(object):
    
         
         for i in range(n):
-            ans.append(bst(matrix[i], target))
-            if ans[i] == True:
+            if bst(matrix[i], target) == True:
                 return True
                 break
         return False
