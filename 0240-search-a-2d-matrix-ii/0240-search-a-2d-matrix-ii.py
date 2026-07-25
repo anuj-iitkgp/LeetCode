@@ -26,7 +26,6 @@ class Solution(object):
    
         
         for i in range(n):
-            if bst(matrix[i], target) == True:
+            if bst(matrix[i], target):
                 return True
-                break
         return False
