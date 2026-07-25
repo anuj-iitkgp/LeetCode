@@ -8,7 +8,6 @@ class Solution(object):
         :rtype: bool
         """
         n = len(matrix)
-        ans = []
 
         def bst(nums, target):
             m = len(nums)
