@@ -22,6 +22,7 @@ LeetCode75_Solution
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
@@ -101,6 +102,7 @@ LeetCode75_Solution
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +144,7 @@ LeetCode75_Solution
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
@@ -323,4 +326,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
