@@ -166,6 +166,7 @@ LeetCode75_Solution
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -194,6 +195,7 @@ LeetCode75_Solution
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -219,6 +221,7 @@ LeetCode75_Solution
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
