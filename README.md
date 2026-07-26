@@ -16,6 +16,7 @@ LeetCode75_Solution
 | [0057-insert-interval](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,6 +123,7 @@ LeetCode75_Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
