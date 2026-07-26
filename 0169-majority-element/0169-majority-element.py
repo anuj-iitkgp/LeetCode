@@ -17,10 +17,12 @@ class Solution(object):
         #         if count > math.floor(n // 2):
         #             return nums[i]
         
-        n = len(nums)
-        freq = {}
-        for i in nums:
-            freq[i] = freq.get(i, 0) + 1
-            if freq[i] > n // 2:
-                return i
+        candidate = None
+        count = 0
+
+        for num in nums:
+            if count == 0:
+                candidate = num
+            count += 1 if num == candidate else -1
+        return candidate
 
