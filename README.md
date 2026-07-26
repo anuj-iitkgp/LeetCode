@@ -96,6 +96,7 @@ LeetCode75_Solution
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ LeetCode75_Solution
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1137-n-th-tribonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
