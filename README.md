@@ -41,6 +41,7 @@ LeetCode75_Solution
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
@@ -97,6 +98,7 @@ LeetCode75_Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +306,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -332,4 +335,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
