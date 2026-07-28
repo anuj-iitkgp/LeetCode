@@ -6,6 +6,7 @@ LeetCode75_Solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0033-search-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@ LeetCode75_Solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
