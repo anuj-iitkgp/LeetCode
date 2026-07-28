@@ -37,5 +37,6 @@ class Solution(object):
                     left += 1
                     right -= 1
 
-        # Return outside the outer for loop
+
+
         return res
