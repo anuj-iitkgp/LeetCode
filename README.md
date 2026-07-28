@@ -7,6 +7,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
@@ -66,6 +67,7 @@ LeetCode75_Solution
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
@@ -146,6 +148,7 @@ LeetCode75_Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
