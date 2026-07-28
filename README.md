@@ -155,6 +155,7 @@ LeetCode75_Solution
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
