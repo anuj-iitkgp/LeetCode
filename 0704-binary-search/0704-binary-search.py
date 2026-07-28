@@ -2,8 +2,6 @@ class Solution(object):
     def search(self, nums, target):
         n = len(nums)
 
-        if n == 1 and nums[0] != target:
-            return -1
 
         left = 0
         right = n - 1
