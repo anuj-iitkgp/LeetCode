@@ -44,6 +44,7 @@ LeetCode75_Solution
 | [0485-max-consecutive-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -109,6 +110,7 @@ LeetCode75_Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
