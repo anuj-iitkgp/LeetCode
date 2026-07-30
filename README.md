@@ -145,6 +145,7 @@ LeetCode75_Solution
 | ------- |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
@@ -169,6 +170,7 @@ LeetCode75_Solution
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
+| [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
@@ -371,5 +373,6 @@ LeetCode75_Solution
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
