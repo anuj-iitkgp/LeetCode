@@ -185,6 +185,7 @@ LeetCode75_Solution
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -376,6 +377,7 @@ LeetCode75_Solution
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
