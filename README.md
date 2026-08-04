@@ -213,6 +213,7 @@ LeetCode75_Solution
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
@@ -234,6 +235,7 @@ LeetCode75_Solution
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
@@ -255,6 +257,7 @@ LeetCode75_Solution
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
@@ -292,6 +295,7 @@ LeetCode75_Solution
 | [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0700-search-in-a-binary-search-tree) |
@@ -407,4 +411,12 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
