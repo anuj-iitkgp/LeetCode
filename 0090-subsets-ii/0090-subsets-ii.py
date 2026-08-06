@@ -1,22 +1,26 @@
 class Solution(object):
     def subsetsWithDup(self, nums):
+        # MUST sort first so all duplicate numbers are adjacent
         nums.sort()
-        res = []
+        
+        n = len(nums)
+        res, sol = [], []
 
-        def backtrack(start, sol):
-            # 1. Every state in the recursion tree is a valid subset
-            res.append(sol[:])
+        def backtrack(i):
+            if i == n:
+                res.append(sol[:])
+                return
+            
+            # Pick
+            sol.append(nums[i])
+            backtrack(i + 1)
+            sol.pop()
 
-            # 2. Try including each remaining element starting from 'start'
-            for i in range(start, len(nums)):
-                # Skip duplicate elements at the same depth level
-                if i > start and nums[i] == nums[i - 1]:
-                    continue
+            # Don't pick: Skip all duplicate elements following index i
+            while i + 1 < n and nums[i] == nums[i + 1]:
+                i += 1
+            
+            backtrack(i + 1)
 
-                # Include nums[i], recurse, and backtrack
-                sol.append(nums[i])
-                backtrack(i + 1, sol)
-                sol.pop()
-
-        backtrack(0, [])
+        backtrack(0)
         return res
