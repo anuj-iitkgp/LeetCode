@@ -458,4 +458,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
