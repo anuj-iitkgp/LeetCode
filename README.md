@@ -462,5 +462,6 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
