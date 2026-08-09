@@ -33,6 +33,7 @@ LeetCode75_Solution
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0238-product-of-array-except-self) |
@@ -147,6 +148,7 @@ LeetCode75_Solution
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
@@ -245,6 +247,7 @@ LeetCode75_Solution
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -283,6 +286,7 @@ LeetCode75_Solution
 | ------- |
 | [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +412,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 ## Geometry
 |  |
 | ------- |
