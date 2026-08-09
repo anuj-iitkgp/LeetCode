@@ -135,6 +135,7 @@ LeetCode75_Solution
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
@@ -374,6 +375,7 @@ LeetCode75_Solution
 | [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
