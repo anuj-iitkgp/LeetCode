@@ -8,6 +8,7 @@ LeetCode75_Solution
 | ------- |
 | [0001-two-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -370,6 +371,7 @@ LeetCode75_Solution
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
@@ -472,4 +474,8 @@ LeetCode75_Solution
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1683-invalid-tweets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
