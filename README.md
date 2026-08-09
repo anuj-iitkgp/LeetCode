@@ -1,5 +1,5 @@
-# LeetCode75
-LeetCode75_Solution
+# LeetCode
+LeetCode_Solution
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
