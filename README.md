@@ -462,6 +462,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0577-employee-bonus) |
 | [1148-article-views-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
