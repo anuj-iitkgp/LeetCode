@@ -1,17 +1,16 @@
 class Solution(object):
 
   def reverseWords(self, s):
-    # 1. Split the string into words (handles extra spaces automatically)
-    words = s.split()
+    
+    # Recursion
+    s1 = s.split()
+    def reverse(l, r):
+        if l < r:
+            reverse(l + 1, r - 1)
+            s1[l], s1[r] = s1[r], s1[l]
 
-    tmp = []
-    # 2. Iterate backwards through the list of words
-    for i in range(len(words) - 1, -1, -1):
-      tmp.append(words[i])
-
-    # 3. Join the words back together with a single space and return
-    return " ".join(tmp)
-
+    reverse(0, len(s1) - 1)
+    return " ".join(s1)
 
 # Time and Space: O(n)
         
