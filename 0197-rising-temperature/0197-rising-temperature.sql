@@ -1,5 +1,13 @@
-select w2.id
-FROM Weather w1
-join weather w2
-on DATEDIFF (w2.recordDate, w1.recordDate) = 1
-where w2.temperature > w1.temperature
+
+
+select today.id
+
+from Weather as today
+where exists
+
+    (
+        select 1 
+        from Weather as yesterday
+        where today.temperature > yesterday.temperature
+        and datediff(today.recordDate, yesterday.recordDate) = 1
+    )
