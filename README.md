@@ -478,6 +478,7 @@ LeetCode_Solution
 | [0197-rising-temperature](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
