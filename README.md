@@ -56,6 +56,7 @@ LeetCode_Solution
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
