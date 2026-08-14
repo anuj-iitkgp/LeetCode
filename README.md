@@ -192,6 +192,7 @@ LeetCode_Solution
 | ------- |
 | [0007-reverse-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
@@ -448,6 +449,7 @@ LeetCode_Solution
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
