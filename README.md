@@ -171,6 +171,7 @@ LeetCode_Solution
 | [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
 | ------- |
