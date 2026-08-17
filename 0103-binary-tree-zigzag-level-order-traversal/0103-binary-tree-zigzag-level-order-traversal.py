@@ -2,33 +2,26 @@ from collections import deque
 
 class Solution(object):
     def zigzagLevelOrder(self, root):
-        if not root:
-            return []
 
         res = []
-        q = deque([root])
-        left_to_right = True
 
-        while q:
-            level_size = len(q)
-            current_level = deque()
+        def dfs(node, depth):
+            if not node:
+                return
+# Start a new level array if visiting this depth for the first time
+            if depth == len(res):
+                res.append([])
+# Odd levels(0-idx) append to left, even levels append to right
 
-            for _ in range(level_size):
-                node = q.popleft()
+            if depth % 2 == 0:
+                res[depth].append(node.val)
+            else:
+                res[depth].insert(0, node.val) # prepend for right to left order
+            
+            # traverse left then right
 
-                # Alternate direction of insertion for the current level
-                if left_to_right:
-                    current_level.append(node.val)
-                else:
-                    current_level.appendleft(node.val)
-
-                # Push child nodes for the next level
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-
-            res.append(list(current_level))
-            left_to_right = not left_to_right  # Flip direction for next level
-
+            dfs(node.left, depth + 1)
+            dfs(node.right, depth + 1)
+        dfs(root, 0)
         return res
+
