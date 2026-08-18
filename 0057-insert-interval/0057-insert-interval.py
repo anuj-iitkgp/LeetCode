@@ -17,3 +17,5 @@ class Solution(object):
             else:
                 output.append([start, end])
         return output
+
+# Time complexity of this code is O(n log n)
