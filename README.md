@@ -14,6 +14,7 @@ LeetCode_Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
@@ -323,6 +324,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
@@ -355,6 +357,7 @@ LeetCode_Solution
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
