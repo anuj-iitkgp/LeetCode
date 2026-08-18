@@ -53,6 +53,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -356,6 +357,7 @@ LeetCode_Solution
 | ------- |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0135-candy) |
+| [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
