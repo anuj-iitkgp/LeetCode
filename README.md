@@ -173,6 +173,7 @@ LeetCode_Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
@@ -205,6 +206,7 @@ LeetCode_Solution
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
@@ -391,6 +393,7 @@ LeetCode_Solution
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
@@ -418,6 +421,7 @@ LeetCode_Solution
 | [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0242-valid-anagram) |
