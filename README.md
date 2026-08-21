@@ -142,6 +142,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -425,6 +426,7 @@ LeetCode_Solution
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -492,6 +494,7 @@ LeetCode_Solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
