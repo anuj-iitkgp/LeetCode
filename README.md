@@ -35,6 +35,7 @@ LeetCode_Solution
 | [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
@@ -202,6 +203,7 @@ LeetCode_Solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
@@ -220,6 +222,7 @@ LeetCode_Solution
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
