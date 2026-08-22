@@ -569,6 +569,7 @@ LeetCode_Solution
 | [1683-invalid-tweets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Trie
