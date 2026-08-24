@@ -13,7 +13,7 @@ private:
     }
 public:
     int change(int amount, vector<int>& coins) {
-     vector<vector<int>> dp(301, vector<int>(50001, -1));
+     vector<vector<int>> dp(coins.size(), vector<int>(amount+1, -1));
     a=amount;
         
         return h(0, 0, coins,dp);
