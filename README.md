@@ -67,6 +67,7 @@ LeetCode_Solution
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +112,7 @@ LeetCode_Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
@@ -119,6 +121,7 @@ LeetCode_Solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
@@ -148,6 +151,7 @@ LeetCode_Solution
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -187,6 +191,7 @@ LeetCode_Solution
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
