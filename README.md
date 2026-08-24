@@ -61,6 +61,7 @@ LeetCode_Solution
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
+| [0896-monotonic-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
