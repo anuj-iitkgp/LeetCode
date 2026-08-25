@@ -247,6 +247,7 @@ LeetCode_Solution
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -666,4 +667,8 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0518-coin-change-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
