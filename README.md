@@ -598,6 +598,7 @@ LeetCode_Solution
 | [1211-queries-quality-and-percentage](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
