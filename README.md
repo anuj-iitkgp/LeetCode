@@ -62,6 +62,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0896-monotonic-array) |
@@ -197,6 +198,7 @@ LeetCode_Solution
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -214,6 +216,7 @@ LeetCode_Solution
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -233,6 +236,7 @@ LeetCode_Solution
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -440,6 +444,7 @@ LeetCode_Solution
 | ------- |
 | [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
