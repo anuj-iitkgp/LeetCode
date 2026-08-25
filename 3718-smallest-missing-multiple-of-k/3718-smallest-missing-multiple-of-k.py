@@ -3,7 +3,7 @@ class Solution(object):
         num_set = set(nums)
         i = 1
         while True:
-            if k * i not in nums:
+            if k * i not in num_set:
                 return k * i
             i += 1
 
