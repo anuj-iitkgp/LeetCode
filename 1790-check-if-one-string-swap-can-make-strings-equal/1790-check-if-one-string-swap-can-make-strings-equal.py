@@ -2,8 +2,6 @@ from collections import Counter
 class Solution(object):
     def areAlmostEqual(self, s1, s2):
         c = 0
-        if len(s1)!=len(s2):
-             return False
         if Counter(s1) != Counter(s2):
             return False
         for i in range(len(s1)):
