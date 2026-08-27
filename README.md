@@ -277,6 +277,7 @@ LeetCode_Solution
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
+| [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
@@ -472,6 +473,7 @@ LeetCode_Solution
 | ------- |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Design
 |  |
