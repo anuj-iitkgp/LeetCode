@@ -12,15 +12,12 @@ class Solution(object):
         #             return True
         # return False
         
-        seen = set()
+        seen = {}
 
         for i, num in enumerate(nums):
-            if num in seen:
+            if num in seen and i - seen[num] <= k :
                 return True
             
-            seen.add(num)
-
-            if len(seen) > k:
-                seen.remove(nums[i - k])
+            seen[num] = i
         return False
         
