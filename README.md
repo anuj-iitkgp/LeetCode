@@ -75,6 +75,7 @@ LeetCode_Solution
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
@@ -198,6 +199,7 @@ LeetCode_Solution
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
@@ -284,6 +286,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1137-n-th-tribonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -557,6 +560,7 @@ LeetCode_Solution
 | [0560-subarray-sum-equals-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 ## String Matching
@@ -599,6 +603,7 @@ LeetCode_Solution
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
