@@ -529,6 +529,7 @@ LeetCode_Solution
 | [0125-valid-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
@@ -567,11 +568,13 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 ## Bucket Sort
 |  |
@@ -634,10 +637,12 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -751,4 +756,12 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
