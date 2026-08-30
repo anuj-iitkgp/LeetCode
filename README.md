@@ -89,6 +89,7 @@ LeetCode_Solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
@@ -468,6 +469,7 @@ LeetCode_Solution
 | [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
