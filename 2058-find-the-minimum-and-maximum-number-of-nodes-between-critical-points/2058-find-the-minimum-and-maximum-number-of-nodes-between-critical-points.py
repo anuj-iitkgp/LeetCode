@@ -16,28 +16,25 @@ class Solution(object):
         min_dist = float('inf')
 
         while curr and curr.next:
-            nxt = curr.next
+            val = curr.val
+            p_val = prev.val
+            n_val = curr.next.val
             
-            # Check if curr is a local maxima or local minima
-            is_maxima = prev.val < curr.val and curr.val > nxt.val
-            is_minima = prev.val > curr.val and curr.val < nxt.val
-
-            if is_maxima or is_minima:
+            # Check for local maxima or minima
+            if (p_val < val > n_val) or (p_val > val < n_val):
                 if first_cp == -1:
                     first_cp = index
                 else:
-                    # Update minimum distance between adjacent critical points
-                    min_dist = min(min_dist, index - prev_cp)
-                
+                    dist = index - prev_cp
+                    if dist < min_dist:
+                        min_dist = dist
                 prev_cp = index
 
             prev = curr
             curr = curr.next
             index += 1
 
-        # Return [-1, -1] if fewer than 2 critical points were found
         if first_cp == -1 or prev_cp == first_cp:
             return [-1, -1]
 
-        max_dist = prev_cp - first_cp
-        return [min_dist, max_dist]
+        return [min_dist, prev_cp - first_cp]
