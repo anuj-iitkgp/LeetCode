@@ -89,6 +89,7 @@ LeetCode_Solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -139,6 +140,7 @@ LeetCode_Solution
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
@@ -714,6 +716,7 @@ LeetCode_Solution
 | ------- |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
