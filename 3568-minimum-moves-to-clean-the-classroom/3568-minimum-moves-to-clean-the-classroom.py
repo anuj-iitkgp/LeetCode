@@ -1,81 +1,80 @@
 from collections import deque
 
-class Solution(object):
+class Solution:
     def minMoves(self, classroom, energy):
-        """
-        :type classroom: List[str]
-        :type energy: int
-        :rtype: int
-        """
-        m, n = len(classroom), len(classroom[0])
-        start_pos = -1
-        litter_mask_map = {}
-        litter_count = 0
+        m = len(classroom)
+        n = len(classroom[0])
 
-        # Pre-process grid and map litter positions to bits
-        for r in range(m):
-            for c in range(n):
-                cell = classroom[r][c]
-                if cell == 'S':
-                    start_pos = r * n + c
-                elif cell == 'L':
-                    litter_mask_map[r * n + c] = 1 << litter_count
-                    litter_count += 1
+        sr, sc = -1, -1
+        cnt = 0
 
-        full_mask = (1 << litter_count) - 1
-        if full_mask == 0:
-            return 0
+        # Give each litter an ID for bitmask
+        id = [[-1] * n for _ in range(m)]
 
-        num_cells = m * n
-        num_masks = 1 << litter_count
+        for i in range(m):
+            for j in range(n):
+                if classroom[i][j] == 'S':
+                    sr = i
+                    sc = j
+                if classroom[i][j] == 'L':
+                    id[i][j] = cnt
+                    cnt += 1
 
-        # Flat array for max remaining energy lookup: best_energy[pos][mask]
-        best_energy = [[-1] * num_masks for _ in range(num_cells)]
-        
-        # BFS Queue holds packed elements or tuples: (pos, mask, e)
-        queue = deque([(start_pos, 0, energy)])
-        best_energy[start_pos][0] = energy
+        masks = 1 << cnt
+        fullMask = masks - 1
 
-        steps = 0
-        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        # best[r][c][mask] = max energy reached at this state
+        best = [[[-1] * masks for _ in range(n)] for _ in range(m)]
 
-        while queue:
-            for _ in range(len(queue)):
-                pos, mask, e = queue.popleft()
+        q = deque()
 
-                if mask == full_mask:
-                    return steps
+        q.append((sr, sc, 0, energy, 0))
+        best[sr][sc][0] = energy
 
-                r, c = divmod(pos, n)
+        dr = [-1, 1, 0, 0]
+        dc = [0, 0, -1, 1]
 
-                for dr, dc in directions:
-                    nr, nc = r + dr, c + dc
+        while q:
+            r, c, mask, en, dist = q.popleft()
 
-                    if 0 <= nr < m and 0 <= nc < n:
-                        cell = classroom[nr][nc]
-                        if cell == 'X':
-                            continue
+            # All litter collected
+            if mask == fullMask:
+                return dist
 
-                        ne = e - 1
-                        if ne < 0:
-                            continue
+            # No energy, cannot move
+            if en == 0:
+                continue
 
-                        npos = nr * n + nc
-                        nmask = mask
+            for d in range(4):
 
-                        # Collect litter if step onto 'L'
-                        if cell == 'L' and npos in litter_mask_map:
-                            nmask |= litter_mask_map[npos]
+                nr = r + dr[d]
+                nc = c + dc[d]
 
-                        # Restore max capacity at reset points 'R'
-                        if cell == 'R':
-                            ne = energy
+                # Outside grid
+                if nr < 0 or nr >= m or nc < 0 or nc >= n:
+                    continue
 
-                        # Strict state-energy pruning
-                        if ne > best_energy[npos][nmask]:
-                            best_energy[npos][nmask] = ne
-                            queue.append((npos, nmask, ne))
+                # Obstacle
+                if classroom[nr][nc] == 'X':
+                    continue
 
-            steps += 1
+                newEn = en - 1
+                newMask = mask
+
+                # Collect litter
+                if classroom[nr][nc] == 'L':
+                    newMask |= (1 << id[nr][nc])
+
+                # Recharge
+                if classroom[nr][nc] == 'R':
+                    newEn = energy
+
+                # Already reached with more energy
+                if best[nr][nc][newMask] >= newEn:
+                    continue
+
+                best[nr][nc][newMask] = newEn
+
+                q.append((nr, nc, newMask, newEn, dist + 1))
 
         return -1
