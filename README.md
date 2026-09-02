@@ -21,6 +21,7 @@ LeetCode_Solution
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
@@ -229,6 +230,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
@@ -439,6 +441,7 @@ LeetCode_Solution
 | [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
