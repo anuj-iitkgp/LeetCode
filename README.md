@@ -106,6 +106,7 @@ LeetCode_Solution
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
@@ -148,6 +149,7 @@ LeetCode_Solution
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +228,7 @@ LeetCode_Solution
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
