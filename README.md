@@ -152,6 +152,7 @@ LeetCode_Solution
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -326,6 +327,7 @@ LeetCode_Solution
 | [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3876-construct-uniform-parity-array-ii) |
