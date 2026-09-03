@@ -1,17 +1,19 @@
 class Solution(object):
     def uniformArray(self, nums1):
-        n = len(nums1)
-        evens = [x for x in nums1 if x % 2 == 0]
-        odds = [x for x in nums1 if x % 2 != 0]
+        min_odd = float('inf')
+        min_even = float('inf')
 
-        if not odds:
+        for x in nums1:
+            if x % 2 != 0:
+                if x < min_odd:
+                    min_odd = x
+            else:
+                if x < min_even:
+                    min_even = x
+
+
+        if min_odd == float('inf'):
             return True
-        min_odd = min(odds)
 
-        for x in evens:
-            if x < min_odd:
-                return False
-        return True
-        
-        
-        
+
+        return min_even > min_odd
