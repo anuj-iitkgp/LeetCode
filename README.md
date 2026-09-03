@@ -108,6 +108,7 @@ LeetCode_Solution
 | [3718-smallest-missing-multiple-of-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -324,6 +325,7 @@ LeetCode_Solution
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
