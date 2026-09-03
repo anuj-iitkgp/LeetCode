@@ -58,6 +58,7 @@ LeetCode_Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@ LeetCode_Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -211,6 +213,7 @@ LeetCode_Solution
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
