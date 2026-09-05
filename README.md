@@ -221,6 +221,7 @@ LeetCode_Solution
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
@@ -575,6 +576,7 @@ LeetCode_Solution
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0686-repeated-string-match) |
+| [0771-jewels-and-stones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
