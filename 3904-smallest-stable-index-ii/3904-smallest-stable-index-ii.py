@@ -1,18 +1,18 @@
 class Solution(object):
     def firstStableIndex(self, nums, k):
         msf = -1
-        cand = cm = 0
+        cSmaIdx = candMax = 0
 
         for i, x in enumerate(nums):
             msf = max(msf, x)
 
-            if i == cand:
-                cm = msf
+            if i == cSmaIdx:
+                candMax = msf
 
-            if x < cm - k:
-                cand = i + 1
+            if x < candMax - k:
+                cSmaIdx = i + 1
 
-        return cand if cand < len(nums) else -1      
+        return cSmaIdx if cSmaIdx < len(nums) else -1      
 
 
 
