@@ -460,6 +460,7 @@ LeetCode_Solution
 | [0064-minimum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0152-maximum-product-subarray) |
@@ -568,6 +569,7 @@ LeetCode_Solution
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
