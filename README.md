@@ -338,6 +338,7 @@ LeetCode_Solution
 | [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
@@ -539,6 +540,7 @@ LeetCode_Solution
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -794,6 +796,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
