@@ -477,6 +477,7 @@ LeetCode_Solution
 | [0509-fibonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
+| [0940-distinct-subsequences-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
@@ -587,6 +588,7 @@ LeetCode_Solution
 | [0686-repeated-string-match](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
