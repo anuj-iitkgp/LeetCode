@@ -82,6 +82,7 @@ LeetCode_Solution
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -149,6 +150,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -226,6 +228,7 @@ LeetCode_Solution
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
@@ -825,4 +828,8 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
