@@ -8,11 +8,11 @@ class Solution(object):
             for i in range(2, int(n**(0.5)) + 1):
                 if n % i == 0:
                     return False
-                    break
+
             return True
         count = Counter(nums)
-        for i, num in count.items():
-            if isPrime(num):
+        for freq in count.values():
+            if isPrime(freq):
                 return True
         return False
         
