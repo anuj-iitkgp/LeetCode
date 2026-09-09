@@ -550,6 +550,7 @@ LeetCode_Solution
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -605,6 +606,7 @@ LeetCode_Solution
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
