@@ -1,8 +1,9 @@
 class Solution(object):
     def transformArray(self, nums):
-        n = len(nums)
-        ans = []
-        for i in range(n):
-            ans.append(nums[i] % 2)
-        ans.sort()
-        return ans
+        nums = [1 if x % 2 != 0 else 0 for x in nums]
+        nums.sort()
+        return nums
+
+
+        
+
