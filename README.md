@@ -102,6 +102,7 @@ LeetCode_Solution
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
@@ -163,6 +164,7 @@ LeetCode_Solution
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -250,6 +252,7 @@ LeetCode_Solution
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
+| [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -621,6 +624,7 @@ LeetCode_Solution
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
+| [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
