@@ -6,4 +6,5 @@ class Solution(object):
             if min2 >= nums[i] or min1 >= nums[i]:
                 min1 = min(min1, min2)
                 min2 = nums[i]
-        return (ans + min1 + min2)
+        ans += min1 + min2
+        return ans
