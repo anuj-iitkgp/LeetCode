@@ -95,6 +95,7 @@ LeetCode_Solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
