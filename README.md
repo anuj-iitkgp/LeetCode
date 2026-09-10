@@ -418,6 +418,7 @@ LeetCode_Solution
 | [0701-insert-into-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -440,6 +441,7 @@ LeetCode_Solution
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -468,6 +470,7 @@ LeetCode_Solution
 | [0701-insert-into-a-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
