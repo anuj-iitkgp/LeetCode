@@ -84,6 +84,7 @@ LeetCode_Solution
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -216,6 +217,7 @@ LeetCode_Solution
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -278,6 +280,7 @@ LeetCode_Solution
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
