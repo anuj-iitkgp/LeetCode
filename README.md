@@ -774,6 +774,7 @@ LeetCode_Solution
 | [0577-employee-bonus](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0627-swap-sex-of-employees) |
 | [1070-product-sales-analysis-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1141-user-activity-for-the-past-30-days-i) |
