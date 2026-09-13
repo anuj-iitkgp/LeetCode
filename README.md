@@ -18,6 +18,7 @@ LeetCode_Solution
 | [0041-first-missing-positive](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0057-insert-interval) |
@@ -282,6 +283,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0074-search-a-2d-matrix) |
@@ -588,6 +590,7 @@ LeetCode_Solution
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
