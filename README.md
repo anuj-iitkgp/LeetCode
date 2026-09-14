@@ -73,6 +73,7 @@ LeetCode_Solution
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0896-monotonic-array) |
@@ -292,6 +293,7 @@ LeetCode_Solution
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
