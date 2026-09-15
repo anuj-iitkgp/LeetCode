@@ -324,6 +324,7 @@ LeetCode_Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0027-remove-element) |
@@ -514,6 +515,7 @@ LeetCode_Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
@@ -637,6 +639,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -910,6 +913,7 @@ LeetCode_Solution
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 ## Counting Sort
 |  |
