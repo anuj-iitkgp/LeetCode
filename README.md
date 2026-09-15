@@ -83,6 +83,7 @@ LeetCode_Solution
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1037-valid-boomerang](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
@@ -194,6 +195,7 @@ LeetCode_Solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
