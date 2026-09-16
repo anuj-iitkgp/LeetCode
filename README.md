@@ -79,6 +79,7 @@ LeetCode_Solution
 | [0896-monotonic-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -149,6 +150,7 @@ LeetCode_Solution
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ LeetCode_Solution
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -195,6 +198,7 @@ LeetCode_Solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,6 +208,7 @@ LeetCode_Solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +375,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
@@ -737,6 +743,7 @@ LeetCode_Solution
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1037-valid-boomerang) |
 ## Sliding Window
 |  |
@@ -926,4 +933,8 @@ LeetCode_Solution
 | ------- |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
