@@ -1,5 +1,13 @@
+import heapq
 class Solution(object):
+    def kClosest(self, points, k):
+        return heapq.nsmallest(k, points, key = lambda p: p[0] ** 2 + p[1] ** 2)
 
-  def kClosest(self, points, k):
-    points.sort(key = lambda p: p[0] ** 2 + p[1] ** 2)
-    return points[:k]
+
+
+
+# class Solution(object):
+
+#   def kClosest(self, points, k):
+#     points.sort(key = lambda p: p[0] ** 2 + p[1] ** 2)
+#     return points[:k]
