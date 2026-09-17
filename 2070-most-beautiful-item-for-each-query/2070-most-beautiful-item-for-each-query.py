@@ -1,16 +1,16 @@
 class Solution(object):
     def maximumBeauty(self, items, queries):
-        # 1. Sort items by price ascending
+
         items.sort(key = lambda x: x[0])
         
-        # 2. Precompute running maximum beauty in-place
+
         for i in range(1, len(items)):
             items[i][1] = max(items[i][1], items[i - 1][1])
             
         ans = []
         n = len(items)
         
-        # 3. Custom Binary Search implementation
+
         def binary_search(q):
             left, right = 0, n - 1
             best_idx = -1
