@@ -252,6 +252,7 @@ LeetCode_Solution
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0229-majority-element-ii) |
@@ -340,6 +341,7 @@ LeetCode_Solution
 | [0125-valid-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
@@ -364,6 +366,7 @@ LeetCode_Solution
 | [0096-unique-binary-search-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
@@ -937,4 +940,8 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
