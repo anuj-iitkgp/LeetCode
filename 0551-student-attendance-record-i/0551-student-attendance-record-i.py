@@ -1,30 +1,10 @@
+
+
+
+
 class Solution(object):
-
-  def checkRecord(self, s):
-    a = 0
-    l = 0
-
-    for char in s:
-      if char == 'A':
-        a += 1
-        if a >= 2:
-          return False
-        l = 0  
-      elif char == 'L':
-        l += 1
-        if l >= 3:
-          return False
-      else:
-        l = 0 
-
-    return True
-
-    
-
-
-
-
-
+    def checkRecord(self, s):
+        return s.count('A') < 2 and 'LLL' not in s
 
 # class Solution(object):
 #     def checkRecord(self, s):
@@ -41,5 +21,28 @@ class Solution(object):
 #             if s[i - 2] == 'L'and s[i - 1] == 'L' and s[i] == 'L':
 #                 return False
 #         return True
+
+# class Solution(object):
+
+#   def checkRecord(self, s):
+#     a = 0
+#     l = 0
+
+#     for char in s:
+#       if char == 'A':
+#         a += 1
+#         if a >= 2:
+#           return False
+#         l = 0  
+#       elif char == 'L':
+#         l += 1
+#         if l >= 3:
+#           return False
+#       else:
+#         l = 0 
+
+#     return True
+
+    
 
                 
