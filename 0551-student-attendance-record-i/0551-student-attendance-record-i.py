@@ -1,17 +1,45 @@
 class Solution(object):
-    def checkRecord(self, s):
-        a = 0
+
+  def checkRecord(self, s):
+    a = 0
+    l = 0
+
+    for char in s:
+      if char == 'A':
+        a += 1
+        if a >= 2:
+          return False
+        l = 0  
+      elif char == 'L':
+        l += 1
+        if l >= 3:
+          return False
+      else:
         l = 0 
-        n = len(s)
-        for i in range(n):
-            if s[i] == 'A':
-                a += 1
-                if a >= 2:
-                    return False
+
+    return True
+
+    
+
+
+
+
+
+
+# class Solution(object):
+#     def checkRecord(self, s):
+#         a = 0
+#         l = 0 
+#         n = len(s)
+#         for i in range(n):
+#             if s[i] == 'A':
+#                 a += 1
+#                 if a >= 2:
+#                     return False
             
-        for i in range(2, n):
-            if s[i - 2] == 'L'and s[i - 1] == 'L' and s[i] == 'L':
-                return False
-        return True
+#         for i in range(2, n):
+#             if s[i - 2] == 'L'and s[i - 1] == 'L' and s[i] == 'L':
+#                 return False
+#         return True
 
                 
