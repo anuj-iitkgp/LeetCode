@@ -6,14 +6,7 @@ class Solution(object):
                 dsum += n % 10
                 n //= 10
             return dsum
-
-        eSum = sum(nums)
-        
-        dSum = 0
-        for num in nums:
-            dSum += digitSum(num)
-        
-        return abs(eSum - dSum)
+        return abs(sum(nums) - sum(digitSum(num) for num in nums))
         
 
         
