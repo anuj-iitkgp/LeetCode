@@ -331,6 +331,7 @@ LeetCode_Solution
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2595-number-of-even-and-odd-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
