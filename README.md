@@ -112,6 +112,7 @@ LeetCode_Solution
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
@@ -184,6 +185,7 @@ LeetCode_Solution
 | [2070-most-beautiful-item-for-each-query](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2578-split-with-minimum-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
@@ -284,6 +286,7 @@ LeetCode_Solution
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
