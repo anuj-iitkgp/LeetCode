@@ -404,6 +404,7 @@ LeetCode_Solution
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2578-split-with-minimum-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
