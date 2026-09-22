@@ -4,12 +4,15 @@ class Solution(object):
         :type title: str
         :rtype: str
         """
-        # return " ".join(word.capitalize() for word in title.split() if len(word) > 2)
-        res = ""
-        for word in title.split():
-            if len(word) <= 2:
-                res += " " + word.lower() 
-            elif len(word) > 2:
-                res += " "  + word.lower().capitalize()
-        return res[1:]
+
+        return " ".join(word.lower() if len(word) <= 2 else word.capitalize() for word in title.split() )
+
+        #-- brute force--
+        # res = ""
+        # for word in title.split():
+        #     if len(word) <= 2:
+        #         res += " " + word.lower() 
+        #     elif len(word) > 2:
+        #         res += " "  + word.lower().capitalize()
+        # return res[1:]
         
