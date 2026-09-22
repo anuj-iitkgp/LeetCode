@@ -693,6 +693,7 @@ LeetCode_Solution
 | [1616-split-two-strings-to-make-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
+| [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
