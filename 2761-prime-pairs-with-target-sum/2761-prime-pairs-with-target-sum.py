@@ -12,11 +12,6 @@ class Solution(object):
         for x in range(2, (n // 2) + 1):
             if is_prime[x] and is_prime[n - x]:
                 ans.append([x, n - x])
-
-        return ans
-        for i in range(2, n):
-            if isPrime(i) and isPrime(n - i) and i <= n - i and n - i <= n :
-                ans.append([i, n - i])
         return ans
             
             
