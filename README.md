@@ -134,6 +134,7 @@ LeetCode_Solution
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3866-first-unique-even-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -295,6 +296,7 @@ LeetCode_Solution
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -615,6 +617,7 @@ LeetCode_Solution
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3866-first-unique-even-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3866-first-unique-even-element) |
 ## Graph Theory
 |  |
 | ------- |
