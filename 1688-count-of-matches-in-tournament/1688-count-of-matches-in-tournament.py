@@ -7,9 +7,8 @@ class Solution(object):
             if n % 2 == 0:
                 t += n // 2
                 n //= 2
-            if n % 2 == 1:
-                t += (n - 1) // 2
-                n = n // 2 + 1
+            t += (n - 1) // 2
+            n = n // 2 + 1
         return t
 
         
