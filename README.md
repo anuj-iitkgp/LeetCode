@@ -404,6 +404,7 @@ LeetCode_Solution
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1688-count-of-matches-in-tournament](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
@@ -641,6 +642,7 @@ LeetCode_Solution
 | [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
+| [1688-count-of-matches-in-tournament](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
