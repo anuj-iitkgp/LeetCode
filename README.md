@@ -450,6 +450,7 @@ LeetCode_Solution
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -703,6 +704,7 @@ LeetCode_Solution
 | [0771-jewels-and-stones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
