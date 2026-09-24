@@ -100,6 +100,7 @@ LeetCode_Solution
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -320,6 +321,7 @@ LeetCode_Solution
 | [0835-image-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
