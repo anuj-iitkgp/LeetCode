@@ -86,6 +86,7 @@ LeetCode_Solution
 | [1037-valid-boomerang](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -183,6 +184,7 @@ LeetCode_Solution
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -282,6 +284,7 @@ LeetCode_Solution
 | [0771-jewels-and-stones](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -904,12 +907,14 @@ LeetCode_Solution
 | ------- |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -991,6 +996,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## K-D Tree
 |  |
