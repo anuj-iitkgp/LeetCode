@@ -101,6 +101,7 @@ LeetCode_Solution
 | [1539-kth-missing-positive-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1672-richest-customer-wealth) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -409,6 +410,7 @@ LeetCode_Solution
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -752,6 +754,7 @@ LeetCode_Solution
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3903-smallest-stable-index-i) |
