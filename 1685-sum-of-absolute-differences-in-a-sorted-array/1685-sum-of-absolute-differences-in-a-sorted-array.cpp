@@ -1,3 +1,8 @@
+auto init = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 #include <vector>
 #include <numeric>
 
