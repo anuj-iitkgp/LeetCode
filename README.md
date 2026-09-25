@@ -434,6 +434,7 @@ LeetCode_Solution
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3875-construct-uniform-parity-array-i) |
