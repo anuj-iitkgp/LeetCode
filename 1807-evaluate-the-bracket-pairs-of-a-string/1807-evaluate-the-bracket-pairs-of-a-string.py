@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: str
         """
         store = {}
+        # store = dict(knowledge)
         i = 0
         j = 0
         n = len(s)
@@ -19,6 +20,7 @@ class Solution(object):
                 while s[j]!=')':
                     j+=1
                 chk = s[i+1:j]
+
                 val = store.get(chk,"?")
                 ans+=val
                 i=j+1
