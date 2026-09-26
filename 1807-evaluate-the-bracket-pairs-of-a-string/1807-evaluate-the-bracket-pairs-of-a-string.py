@@ -19,7 +19,6 @@ class Solution(object):
                 while s[j]!=')':
                     j+=1
                 chk = s[i+1:j]
-                print(chk)
                 val = store.get(chk,"?")
                 ans+=val
                 i=j+1
