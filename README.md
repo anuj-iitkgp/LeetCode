@@ -106,6 +106,7 @@ LeetCode_Solution
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -297,6 +298,7 @@ LeetCode_Solution
 | [1748-sum-of-unique-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
@@ -728,6 +730,7 @@ LeetCode_Solution
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
