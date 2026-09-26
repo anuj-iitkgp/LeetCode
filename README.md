@@ -132,6 +132,7 @@ LeetCode_Solution
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
@@ -308,6 +309,7 @@ LeetCode_Solution
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
@@ -595,6 +597,7 @@ LeetCode_Solution
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search Tree
 |  |
