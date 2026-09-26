@@ -385,6 +385,7 @@ LeetCode_Solution
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -730,6 +731,7 @@ LeetCode_Solution
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -785,6 +787,7 @@ LeetCode_Solution
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
