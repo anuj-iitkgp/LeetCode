@@ -307,6 +307,7 @@ LeetCode_Solution
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
@@ -738,6 +739,7 @@ LeetCode_Solution
 | [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3884-first-matching-character-from-both-ends) |
