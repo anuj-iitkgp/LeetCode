@@ -2,7 +2,6 @@ class Solution(object):
     def reverseWords(self, s):
         def noOfVowels(k):
             return sum([1 for c in k if c in set(['a', 'e', 'i', 'o', 'u'])])
-        print(noOfVowels('aaahdhsbjhf'))
         words = s.split()
         t = noOfVowels(words[0])
         for i in range(1, len(words)):
