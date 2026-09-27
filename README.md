@@ -133,6 +133,7 @@ LeetCode_Solution
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
@@ -440,6 +441,7 @@ LeetCode_Solution
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
