@@ -395,6 +395,7 @@ LeetCode_Solution
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
@@ -681,6 +682,7 @@ LeetCode_Solution
 | [3222-find-the-winning-player-in-coin-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Number Theory
 |  |
 | ------- |
@@ -753,6 +755,7 @@ LeetCode_Solution
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3931-check-adjacent-digit-differences) |
 ## Binary Indexed Tree
