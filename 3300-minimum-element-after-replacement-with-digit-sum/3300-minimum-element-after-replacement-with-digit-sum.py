@@ -7,8 +7,5 @@ class Solution(object):
                 n //= 10
             return t
         return min([digitSum(nums[i]) for i in range(len(nums))])
-        # for i in range(len(nums)):
-        #     nums[i] = digitSum(nums[i])
-        # return min(nums)
         
         
