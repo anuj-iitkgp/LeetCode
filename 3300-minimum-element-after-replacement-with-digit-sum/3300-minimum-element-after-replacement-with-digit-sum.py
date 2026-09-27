@@ -6,9 +6,9 @@ class Solution(object):
                 t += n % 10
                 n //= 10
             return t
-        
-        for i in range(len(nums)):
-            nums[i] = digitSum(nums[i])
-        return min(nums)
+        return min([digitSum(nums[i]) for i in range(len(nums))])
+        # for i in range(len(nums)):
+        #     nums[i] = digitSum(nums[i])
+        # return min(nums)
         
         
