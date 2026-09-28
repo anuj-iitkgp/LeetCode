@@ -315,6 +315,7 @@ LeetCode_Solution
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -758,6 +759,7 @@ LeetCode_Solution
 | [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
