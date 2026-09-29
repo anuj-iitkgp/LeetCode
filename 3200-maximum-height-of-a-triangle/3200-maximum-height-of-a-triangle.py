@@ -8,5 +8,6 @@ class Solution(object):
                 return 2 * r + 1
             else:
                 return 2 * b
-        return max(calHeight(red, blue), calHeight(blue, red))
+        a = max(calHeight(red, blue), calHeight(blue, red))
+        return a
                 
