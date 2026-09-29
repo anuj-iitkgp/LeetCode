@@ -135,6 +135,7 @@ LeetCode_Solution
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -958,6 +959,7 @@ LeetCode_Solution
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
 ## Primality Test
