@@ -740,6 +740,7 @@ LeetCode_Solution
 | [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0647-palindromic-substrings) |
