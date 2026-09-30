@@ -370,6 +370,7 @@ LeetCode_Solution
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
@@ -428,6 +429,7 @@ LeetCode_Solution
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
 | [0509-fibonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0509-fibonacci-number) |
@@ -873,6 +875,7 @@ LeetCode_Solution
 | [0050-powx-n](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
