@@ -91,6 +91,7 @@ LeetCode_Solution
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -196,6 +197,7 @@ LeetCode_Solution
 | [1051-height-checker](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -301,6 +303,7 @@ LeetCode_Solution
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
