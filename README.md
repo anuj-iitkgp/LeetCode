@@ -28,6 +28,7 @@ LeetCode_Solution
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -179,6 +180,7 @@ LeetCode_Solution
 | [0015-3sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
@@ -390,6 +392,7 @@ LeetCode_Solution
 | [0027-remove-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0189-rotate-array) |
