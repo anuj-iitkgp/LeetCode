@@ -482,6 +482,7 @@ LeetCode_Solution
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0090-subsets-ii) |
 ## Linked List
@@ -607,6 +608,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
@@ -744,6 +746,7 @@ LeetCode_Solution
 | [0005-longest-palindromic-substring](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0058-length-of-last-word) |
@@ -1006,6 +1009,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
