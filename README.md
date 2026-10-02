@@ -72,6 +72,7 @@ LeetCode_Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
@@ -350,6 +351,7 @@ LeetCode_Solution
 | [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0835-image-overlap) |
@@ -553,6 +555,7 @@ LeetCode_Solution
 | [0543-diameter-of-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
 | [0872-leaf-similar-trees](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -598,6 +601,7 @@ LeetCode_Solution
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -851,6 +855,7 @@ LeetCode_Solution
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
