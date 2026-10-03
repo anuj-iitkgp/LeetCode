@@ -459,6 +459,7 @@ LeetCode_Solution
 | [1872-stone-game-viii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1922-count-good-numbers) |
+| [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
@@ -721,6 +722,7 @@ LeetCode_Solution
 | ------- |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
@@ -992,6 +994,7 @@ LeetCode_Solution
 | ------- |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
+| [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
@@ -1005,6 +1008,7 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -1081,4 +1085,8 @@ LeetCode_Solution
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0202-happy-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
