@@ -84,6 +84,7 @@ LeetCode_Solution
 | [0930-binary-subarrays-with-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1037-valid-boomerang](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1037-valid-boomerang) |
@@ -359,6 +360,7 @@ LeetCode_Solution
 | [0766-toeplitz-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -612,6 +614,7 @@ LeetCode_Solution
 | [0404-sum-of-left-leaves](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
