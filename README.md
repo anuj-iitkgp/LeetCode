@@ -124,6 +124,7 @@ LeetCode_Solution
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -415,6 +416,7 @@ LeetCode_Solution
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -789,6 +791,7 @@ LeetCode_Solution
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
