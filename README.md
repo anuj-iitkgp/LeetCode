@@ -167,6 +167,7 @@ LeetCode_Solution
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -707,6 +708,7 @@ LeetCode_Solution
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3978-unique-middle-element) |
 ## Graph Theory
 |  |
 | ------- |
