@@ -127,6 +127,7 @@ LeetCode_Solution
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -331,6 +332,7 @@ LeetCode_Solution
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
+| [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
@@ -426,6 +428,7 @@ LeetCode_Solution
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3794-reverse-string-prefix) |
@@ -1019,6 +1022,7 @@ LeetCode_Solution
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
 | [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
