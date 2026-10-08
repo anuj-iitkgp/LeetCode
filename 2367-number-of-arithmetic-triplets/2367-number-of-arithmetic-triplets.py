@@ -1,0 +1,9 @@
+class Solution(object):
+    def arithmeticTriplets(self, nums, diff):
+        t, n = 0, len(nums)
+        for i in range(n):
+            for j in range(i + 1, n):
+                for k in range(j + 1, n):
+                    if nums[j] - nums[i] == diff and nums[k] - nums[j] == diff:
+                        t += 1
+        return t
