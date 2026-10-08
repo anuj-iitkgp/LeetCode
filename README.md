@@ -168,6 +168,7 @@ LeetCode_Solution
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3904-smallest-stable-index-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3978-unique-middle-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
 |  |
@@ -433,6 +434,7 @@ LeetCode_Solution
 | [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
