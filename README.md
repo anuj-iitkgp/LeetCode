@@ -697,6 +697,7 @@ LeetCode_Solution
 | [1386-cinema-seat-allocation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2578-split-with-minimum-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2578-split-with-minimum-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
@@ -817,6 +818,7 @@ LeetCode_Solution
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2129-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1024,6 +1026,7 @@ LeetCode_Solution
 | [0204-count-primes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
 | [1952-three-divisors](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1952-three-divisors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
