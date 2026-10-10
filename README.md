@@ -121,6 +121,7 @@ LeetCode_Solution
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2091-removing-minimum-and-maximum-from-array) |
