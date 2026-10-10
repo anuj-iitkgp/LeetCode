@@ -400,6 +400,7 @@ LeetCode_Solution
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3827-count-monobit-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3827-count-monobit-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1035,6 +1036,7 @@ LeetCode_Solution
 | [3411-maximum-subarray-with-equal-products](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3827-count-monobit-integers) |
 ## Primality Test
 |  |
 | ------- |
