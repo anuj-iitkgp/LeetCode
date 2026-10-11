@@ -332,6 +332,7 @@ LeetCode_Solution
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
@@ -818,6 +819,7 @@ LeetCode_Solution
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2124-check-if-all-as-appears-before-all-bs) |
