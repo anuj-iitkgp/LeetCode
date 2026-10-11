@@ -138,6 +138,7 @@ LeetCode_Solution
 | [2733-neither-minimum-nor-maximum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2733-neither-minimum-nor-maximum) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1032,6 +1033,7 @@ LeetCode_Solution
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3411-maximum-subarray-with-equal-products) |
