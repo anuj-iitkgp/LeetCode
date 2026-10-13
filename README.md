@@ -474,6 +474,7 @@ LeetCode_Solution
 | [1486-xor-operation-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
