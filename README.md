@@ -160,6 +160,7 @@ LeetCode_Solution
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -233,6 +234,7 @@ LeetCode_Solution
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -704,6 +706,7 @@ LeetCode_Solution
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2578-split-with-minimum-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2578-split-with-minimum-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
