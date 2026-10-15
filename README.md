@@ -140,6 +140,7 @@ LeetCode_Solution
 | [2761-prime-pairs-with-target-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
@@ -343,6 +344,7 @@ LeetCode_Solution
 | [2475-number-of-unequal-triplets-in-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -845,11 +847,13 @@ LeetCode_Solution
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
