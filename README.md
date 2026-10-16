@@ -503,6 +503,7 @@ LeetCode_Solution
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3871-count-commas-in-range-ii) |
@@ -673,6 +674,7 @@ LeetCode_Solution
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
