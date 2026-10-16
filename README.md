@@ -463,6 +463,7 @@ LeetCode_Solution
 | [0319-bulb-switcher](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0479-largest-palindrome-product) |
 | [0509-fibonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0628-maximum-product-of-three-numbers) |
@@ -747,6 +748,7 @@ LeetCode_Solution
 | [0054-spiral-matrix](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -804,6 +806,7 @@ LeetCode_Solution
 | [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0551-student-attendance-record-i) |
