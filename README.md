@@ -535,6 +535,7 @@ LeetCode_Solution
 | [0032-longest-valid-parentheses](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -708,6 +709,7 @@ LeetCode_Solution
 | [0045-jump-game-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0678-valid-parenthesis-string) |
@@ -812,6 +814,7 @@ LeetCode_Solution
 | [0214-shortest-palindrome](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0541-reverse-string-ii) |
@@ -959,6 +962,7 @@ LeetCode_Solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
