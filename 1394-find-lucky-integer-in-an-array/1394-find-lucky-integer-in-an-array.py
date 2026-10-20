@@ -1,15 +1,15 @@
 from collections import Counter
 class Solution(object):
     def findLucky(self, arr):
-        count = Counter(arr)
-        print(count)
+        count = collections.Counter(arr)
         maxi = float('-inf')
-        for key, value in count.items():
-            if key == value:
-                maxi = max(maxi, key)
-        if maxi == float('-inf'):
-            return -1
-        return maxi
+        for val, freq in count.items():
+            if val == freq:
+                maxi = max(maxi, val)
+        
+        if maxi != float('-inf'):
+            return maxi
+        return -1
         
         
 
