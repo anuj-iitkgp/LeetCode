@@ -860,6 +860,7 @@ LeetCode_Solution
 | [3120-count-the-number-of-special-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -956,6 +957,7 @@ LeetCode_Solution
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3411-maximum-subarray-with-equal-products) |
