@@ -153,6 +153,7 @@ LeetCode_Solution
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3200-maximum-height-of-a-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3364-minimum-positive-sum-subarray) |
@@ -356,6 +357,7 @@ LeetCode_Solution
 | [3146-permutation-difference-between-two-strings](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3483-unique-3-digit-even-numbers) |
@@ -743,6 +745,7 @@ LeetCode_Solution
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2748-number-of-beautiful-pairs) |
 | [3046-split-the-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3866-first-unique-even-element) |
