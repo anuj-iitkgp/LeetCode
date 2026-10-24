@@ -1,11 +1,10 @@
-class Solution(object):
-    def lemonadeChange(self, bills):
-
+class Solution:
+    def lemonadeChange(self, bills: list[int]) -> bool:
         five, ten = 0, 0
-        for bill in bills:
-            if bill == 5:
+        for b in bills:
+            if b == 5:
                 five += 1
-            elif bill == 10:
+            elif b == 10:
                 if five:
                     five -= 1
                     ten += 1
@@ -20,6 +19,3 @@ class Solution(object):
                 else:
                     return False
         return True
-
-# Time Complexity: O(n)
-# Space Complexity: O(1)
